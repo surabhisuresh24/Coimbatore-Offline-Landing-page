@@ -654,7 +654,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div className="relative" style={{ paddingBottom: '56.25%', height: 0 }}>
                       <iframe
                         className="absolute top-0 left-0 w-full h-full rounded-xl shadow-lg"
-                        src="https://drive.google.com/file/d/16At6qEMgEPx02cmQAh7k4CshjfWmv1Er/preview"
+                        src="https://www.youtube.com/embed/5LxHRFMojgM?si=B10QFQgjhMdxoxEu"
                         title="CMA USA Testimonial 1"
                         frameBorder={0}
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -668,7 +668,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div className="relative" style={{ paddingBottom: '56.25%', height: 0 }}>
                       <iframe
                         className="absolute top-0 left-0 w-full h-full rounded-xl shadow-lg"
-                        src="https://drive.google.com/file/d/1ue3WAh2z-b-XeuukyApkVYH7IUg9XQuh/preview"
+                        src="https://www.youtube.com/embed/5bDg3u0PRUs?si=eDWRuF0iMKfLLh5W"
                         title="CMA USA Testimonial 2"
                         frameBorder={0}
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -682,7 +682,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div className="relative" style={{ paddingBottom: '56.25%', height: 0 }}>
                       <iframe
                         className="absolute top-0 left-0 w-full h-full rounded-xl shadow-lg"
-                        src="https://drive.google.com/file/d/1M9EJ9kdgi0hbJGLXTWZADfkMquie59WR/preview"
+                        src="https://www.youtube.com/embed/LEsFHBV9_PU?si=f3rKmdXVtD_2AGb8"
                         title="CMA USA Testimonial 3"
                         frameBorder={0}
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
