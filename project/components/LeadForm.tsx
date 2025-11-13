@@ -97,12 +97,12 @@ export default function LeadForm({ onSuccess }: LeadFormProps) {
             <span className="block">Journey</span>
           </h2>
 
-          {/* Split paragraph so “offline campus” is on the next line */}
+          {/* Now “Coimbatore offline campus” is on one line */}
           <p className="text-gray-600">
             <span className="block">
-              Enter your phone number to get started with our Bengaluru
+              Enter your phone number to get started with our
             </span>
-            <span className="block">offline campus</span>
+            <span className="block">Coimbatore offline campus</span>
           </p>
 
           <div>
@@ -188,12 +188,14 @@ export default function LeadForm({ onSuccess }: LeadFormProps) {
               className="mt-2 w-full h-12 px-3 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-[#00528a]"
             >
               <option value="">Select your status</option>
-              <option value="12th">Student – 12th / +2</option>
-              <option value="graduate">Graduate</option>
-              <option value="postgrad">Postgraduate</option>
-              <option value="ca">Chartered Accountant</option>
-              <option value="working">Working Professional</option>
-              <option value="other">Other</option>
+              <option value="11th">Class 11 Student</option>
+              <option value="12th">Class 12 Student</option>
+              <option value="graduate">pursuing Graduation</option>
+              <option value="postgrad">pursuing Post-Graduation</option>
+              <option value="ca">Graduate And Above - No Experience</option>
+              <option value="working">0-1 Yr</option>
+              <option value="working">2-5 Yrs</option>
+              <option value="working">5+ Yrs</option>
             </select>
           </div>
 
